@@ -1,16 +1,16 @@
 {
-    "name": "zefy/php-simple-sso",
+    "name": "godfreymakori/php-simple-sso",
     "description": "Simple PHP SSO",
     "keywords": ["sso", "authentication", "login"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Martynas Žaliaduonis",
-            "email": "m.zaliaduonis@gmail.com"
+            "name": "Godfrey Makori",
+            "email": "neokasp@yahoo.com"
         }
     ],
     "require": {
-      "php": ">=7.1.3"
+      "php": "^7.2"
     },
     "autoload": {
       "psr-4": {
